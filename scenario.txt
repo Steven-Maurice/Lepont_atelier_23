@@ -1,0 +1,42 @@
+
+intro : déjà rédigée. 
+
+1. Débarquement sur l'île. Description du paysage etc
+écrit : Olivier
+balise : Athmane
+
+2. Rencontre d'une tribu, Description 
+écrit : clément
+balise : François
+
+3. Elle découvre que la tribu dispose de secrets et pouvoirs mystiques.
+écrit : Irina
+balise : David
+
+4. Elle enquête sur l'origine des pouvoirs, tout en discrétion.
+écrit : Wilfried
+balise : Thomas
+
+5. Elle découvre la source de ce secret : un cristal caché dans un coffre sous terre.
+écrit : Arthur
+balise : Sam
+
+6. La nuit, en toute discrétion, elle ouvre le coffre contenant le cristal. Narration.
+écrit : Athmane
+balise : Olivier
+
+7. Des esprits lui parlent. Narration du trip.
+écrit : François
+balise : Clément
+
+8. Elle se réveille et oublie qui elle est. Elle redécouvre l'île.
+écrit : David
+balise : Irina
+
+9. Elle réalise qu'elle a un pouvoir magique : elle sait lire les pensées.
+écrit : Thomas
+balise : Wilfried
+
+10. Elle remonte sur son bateau et rentre en Amérique. Elle expérimente son pouvoir dans les rues de New York.
+écrit : Sam
+balise : Arthur
